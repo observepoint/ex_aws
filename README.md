@@ -1,3 +1,6 @@
+#Note
+Transfered from the Strala github account. Old code not used.
+
 ExAws
 =====
 [![Hex.pm](https://img.shields.io/hexpm/v/ex_aws.svg)](https://hex.pm/packages/ex_aws)
